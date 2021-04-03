@@ -1,1 +1,2 @@
-# Newton-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
